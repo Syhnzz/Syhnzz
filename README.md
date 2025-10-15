@@ -38,8 +38,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeremy&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
 ---
