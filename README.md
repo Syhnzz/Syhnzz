@@ -8,7 +8,6 @@ I enjoy working across different technologies and constantly exploring new tools
 ### 🧠 About Me
 - 💻 Developer driven by curiosity and creativity  
 - 🌱 Always learning something new  
-- 🚀 Let’s build something cool together!
 
 ---
 
