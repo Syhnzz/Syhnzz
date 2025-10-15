@@ -5,11 +5,9 @@
 
 ### 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:jeremy.quinol@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+- 📧 Email: [jeremy.quinol@gmail.com](mailto:jeremy.quinol@gmail.com)
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ton-profil" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" />
   </a>
